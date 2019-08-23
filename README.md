@@ -2,3 +2,5 @@
 Este é meu repositório no Git
 
 Novo texto adicionado
+
+Exercício

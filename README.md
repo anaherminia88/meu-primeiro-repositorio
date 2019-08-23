@@ -1,2 +1,4 @@
 # meu-primeiro-repositorio
-Este é meu repositório no Github
+Este é meu repositório no Git
+
+Novo texto adicionado
